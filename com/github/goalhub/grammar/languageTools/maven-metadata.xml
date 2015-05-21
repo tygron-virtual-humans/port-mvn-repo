@@ -3,10 +3,10 @@
   <groupId>com.github.goalhub.grammar</groupId>
   <artifactId>languageTools</artifactId>
   <versioning>
-    <release>1.1.6-calc</release>
+    <release>1.1.6p</release>
     <versions>
-      <version>1.1.6-calc</version>
+      <version>1.1.6p</version>
     </versions>
-    <lastUpdated>20150513111931</lastUpdated>
+    <lastUpdated>20150521113434</lastUpdated>
   </versioning>
 </metadata>
